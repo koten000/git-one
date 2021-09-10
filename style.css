@@ -1,8 +1,12 @@
 body {
     background: red;
 <<<<<<< HEAD
+<<<<<<< HEAD
     margin: 20px;
 =======
     padding: 30px;
+>>>>>>> feature-c
+=======
+    margin: 0;
 >>>>>>> feature-c
 }
